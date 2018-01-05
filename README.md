@@ -3,7 +3,11 @@ any 360 video player in this player drage and drop not any coding and not sdk re
 
 # VR Player For Unity3d Free Plugin Easy to use not SDK Requirements 
 
-Play Any 360 Vide Play Veru Simple 
+Play Any 360 Video Very Easy 
+
+My WebSite :
+
+Http://www.irshadkhan.info
 
 
 
